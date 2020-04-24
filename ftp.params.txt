@@ -1,0 +1,9 @@
+open localhost
+Sorin
+parola-cont-ftp
+lcd "LOCAL-FOLDER"
+cd  drop/
+mput *.xml
+mput *.csv
+disconnect
+quit
