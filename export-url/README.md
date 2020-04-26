@@ -1,0 +1,1 @@
+export date din baza de date folosind o aplicatie consola si trimiterea taskurilor unul cate unul prin POST la un URL

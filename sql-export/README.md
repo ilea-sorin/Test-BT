@@ -1,0 +1,1 @@
+export lista de taskuri din baza de date in fisier csv sau xml, folosind procedura stocata si un .bat pentru transfer FTP
